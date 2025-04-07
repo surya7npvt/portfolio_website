@@ -14,11 +14,11 @@ Navigation bar consists
 -About me
 -portfolio
 -contact
-# About me section
+## About me section
 1)In this section i given the details of my education.
 2)and also my skills with prominent percentage.
-# portfolio section
+## portfolio section
 Here i have given the details of my projects.
-# contact section
+## contact section
 In this section  i have given my address,phone number and mail.
 
